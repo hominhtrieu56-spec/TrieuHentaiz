@@ -45,7 +45,7 @@ local Tabs = {
 
     Tabs.Main0:AddButton({
     Title = "Youtuber",
-    Description = "TBoy Roblox",
+    Description = "MTrieu Roblox",
     Callback = function()
         setclipboard("https://www.youtube.com/@TBoyRoblox08")
     end
@@ -53,7 +53,7 @@ local Tabs = {
 
     Tabs.Main0:AddButton({
     Title = "Youtuber",
-    Description = "TBoy Gamer",
+    Description = "MTrieu",
     Callback = function()
         setclipboard("https://www.youtube.com/@TBoyGamer08")
     end
