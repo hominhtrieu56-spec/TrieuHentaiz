@@ -42,6 +42,4 @@ loadstring(game:HttpGet(("https://https://raw.githubusercontent.com/hominhtrieu5
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
-  end
-  })
+
