@@ -6,7 +6,7 @@ loadstring(game:HttpGet(("https://https://raw.githubusercontent.com/hominhtrieu5
          Animation = "Trình là gì nếu có sức mạnh này trình cũng phải thua"
          },
         Key = {
-        KeySystem = true,
+        KeySystem = false,
         Title = "Key System",
         Description = "",
         KeyLink = "",
